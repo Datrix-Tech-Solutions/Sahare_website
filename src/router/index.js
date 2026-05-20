@@ -4,6 +4,7 @@ import AboutView from '../views/AboutView.vue'
 import ProductsView from '../views/Products.vue'
 import ServiceView from '../views/ServiceView.vue'
 import ContactView from '../views/ContactView.vue'
+import PrivacyView from '../views/PrivacyView.vue'
 
 const router = createRouter({
   history: createWebHashHistory (import.meta.env.BASE_URL),
@@ -32,6 +33,11 @@ const router = createRouter({
       path: '/contact',
       name: 'contact',
       component: ContactView
+    },
+    {
+      path: '/privacy',
+      name: 'privacy',
+      component: PrivacyView
     },
   ]
 })

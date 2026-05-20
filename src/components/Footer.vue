@@ -60,6 +60,9 @@
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
                     &copy; <a class="border-bottom" href="#">Saha Re</a>, All Right Reserved.
                 </div>
+                <div class="col-md-6 text-center text-md-end">
+                    <router-link class="border-bottom" :to="{ name: 'privacy' }" @click="scrollToTop">Data Privacy</router-link>
+                </div>
             </div>
         </div>
     </div>
