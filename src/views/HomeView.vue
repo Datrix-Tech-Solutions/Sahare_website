@@ -1,6 +1,6 @@
 <script setup>
 import Services from '../components/Services.vue';
-import Whyus from '../components/whyus.vue'
+import Whyus from '../components/WhyUs.vue'
 import AddOnServices from '../components/AddOnServices.vue'
 import Classes from '../components/Classes.vue';
 
