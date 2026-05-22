@@ -45,13 +45,13 @@
         <!-- Section 2 -->
         <h4 class="mb-3">2. Collection of Personal Data from Third Parties</h4>
         <p class="mb-4">
-          We may collect and process personal data about you from third parties, including brokers. Such collection
-          would be necessary for the performance of our contractual obligations, compliance with legal requirements,
-          or the protection of the rights of data subjects.
+          We may collect and process personal data about you from third parties, including Brokers, Managing  General Agents (MGAs), Underwriting 
+          Managing Agents (UMAs) and other intermediaries, such collection would be necessary for the performance of our contractual obligations, 
+          compliance with legal requirements, or the protection of the rights of data subjects.
         </p>
         <p class="mb-4">
-          Any personal data obtained from third parties will be processed lawfully, fairly, and transparently, and
-          will be subject to the same safeguards and protections as data collected directly from the data subject.
+          Any personal data obtained from third parties will be processed lawfully, fairly, and transparently, and will be subject to the same safeguards 
+          and protections as data collected directly from the data subject.
         </p>
 
         <!-- Section 3 -->
