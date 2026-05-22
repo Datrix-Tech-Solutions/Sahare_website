@@ -43,7 +43,19 @@
         </ul>
 
         <!-- Section 2 -->
-        <h4 class="mb-3">2. Purpose of Processing</h4>
+        <h4 class="mb-3">2. Collection of Personal Data from Third Parties</h4>
+        <p class="mb-4">
+          We may collect and process personal data about you from third parties, including brokers. Such collection
+          would be necessary for the performance of our contractual obligations, compliance with legal requirements,
+          or the protection of the rights of data subjects.
+        </p>
+        <p class="mb-4">
+          Any personal data obtained from third parties will be processed lawfully, fairly, and transparently, and
+          will be subject to the same safeguards and protections as data collected directly from the data subject.
+        </p>
+
+        <!-- Section 3 -->
+        <h4 class="mb-3">3. Purpose of Processing</h4>
         <p>
           The personal data we collect depends on the use of the personal data. We collect the minimum personal data
           necessary for the stated purposes. The purpose for processing your personal data are detailed below:
@@ -59,8 +71,8 @@
           <li class="mb-2">Research, audit, reporting and other business operations purposes.</li>
         </ul>
 
-        <!-- Section 3 -->
-        <h4 class="mb-3">3. Legal Basis for Processing</h4>
+        <!-- Section 4 -->
+        <h4 class="mb-3">4. Legal Basis for Processing</h4>
         <p>We will use the information we collect about you in connection with the Services and for any such use, we rely on an appropriate legal ground:</p>
         <ul class="mb-4">
           <li class="mb-2"><strong>Performance of contract:</strong> to enable us to take steps in offering the services and fulfil our obligations.</li>
@@ -71,8 +83,8 @@
           </li>
         </ul>
 
-        <!-- Section 4 -->
-        <h4 class="mb-3">4. Recipients of Your Information</h4>
+        <!-- Section 5 -->
+        <h4 class="mb-3">5. Recipients of Your Information</h4>
         <p>Saha Reinsurance (Pty) Ltd may from time to time share your personal information with the following categories of recipients where necessary:</p>
         <ul class="mb-4">
           <li class="mb-2"><strong>Within Saha Reinsurance (Pty) Ltd:</strong> we may share your personal information with other entities, divisions, and subsidiaries for the processing purposes outlined in this Statement.</li>
@@ -83,8 +95,8 @@
           <li class="mb-2"><strong>Third party service providers:</strong> where we outsource our processing operations to suppliers that process personal information on our behalf, under our control and strict instructions.</li>
         </ul>
 
-        <!-- Section 5 -->
-        <h4 class="mb-3">5. Third Country / International Organisation Transfers</h4>
+        <!-- Section 6 -->
+        <h4 class="mb-3">6. Third Country / International Organisation Transfers</h4>
         <p class="mb-4">
           Saha Reinsurance (Pty) Ltd may transfer your personal information to other countries for further processing
           for the purposes outlined in this Statement. We endeavour to ensure that such transfers comply with all
@@ -94,16 +106,16 @@
           agreements which contain standard contractual clauses.
         </p>
 
-        <!-- Section 6 -->
-        <h4 class="mb-3">6. Direct Marketing</h4>
+        <!-- Section 7 -->
+        <h4 class="mb-3">7. Direct Marketing</h4>
         <p class="mb-4">
           Saha Reinsurance (Pty) Ltd may send you information about its products and services via text messages,
           emails and other related platforms. If you do not wish to receive such information, you have the right to
           opt out of receiving such messages at no cost to you by contacting our offices.
         </p>
 
-        <!-- Section 7 -->
-        <h4 class="mb-3">7. Data Security</h4>
+        <!-- Section 8 -->
+        <h4 class="mb-3">8. Data Security</h4>
         <p class="mb-4">
           The security of your personal information is important to us. We have implemented appropriate technical
           and organizational security measures to protect the confidentiality, integrity and availability of your
@@ -111,8 +123,8 @@
           with applicable data privacy laws.
         </p>
 
-        <!-- Section 8 -->
-        <h4 class="mb-3">8. Data Retention</h4>
+        <!-- Section 9 -->
+        <h4 class="mb-3">9. Data Retention</h4>
         <p class="mb-4">
           We retain appropriate records of your personal information for as long as is reasonably necessary for
           the purposes outlined in this statement and compliance with our legal and regulatory obligations. Where
@@ -120,8 +132,8 @@
           pseudonymise it.
         </p>
 
-        <!-- Section 9 -->
-        <h4 class="mb-3">9. Data Subject Request Rights</h4>
+        <!-- Section 10 -->
+        <h4 class="mb-3">10. Data Subject Request Rights</h4>
         <p>You have the following rights regarding your personal data:</p>
         <ul class="mb-4">
           <li class="mb-2">Access and request a copy of your personal data.</li>
@@ -134,8 +146,8 @@
         </ul>
         <p class="mb-4 fst-italic">Please note, the above rights are subject to legal and regulatory requirements.</p>
 
-        <!-- Section 10 -->
-        <h4 class="mb-3">10. Contact Us</h4>
+        <!-- Section 11 -->
+        <h4 class="mb-3">11. Contact Us</h4>
         <p>If you have any questions about this Statement or wish to exercise your rights, please contact us:</p>
         <div class="row g-4 mb-4">
           <div class="col-md-6">
@@ -161,8 +173,8 @@
           lodge a complaint with the Information and Data Protection Commission.
         </p>
 
-        <!-- Section 11 -->
-        <h4 class="mb-3">11. Changes to This Statement</h4>
+        <!-- Section 12 -->
+        <h4 class="mb-3">12. Changes to This Statement</h4>
         <p class="mb-5">
           This Statement may be amended from time to time in accordance with changes in our regulatory requirements
           and data protection practices.
